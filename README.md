@@ -38,7 +38,6 @@
 <a href="#" target="_blank"><img alt ="SQL" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="padding-right:5px"> 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriielMelo&hide_progress=true)](https://github.com/GabriielMelo/github-readme-stats)
 
 <h3>Redes</h3>
 
