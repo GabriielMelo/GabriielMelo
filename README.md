@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-
-<style>
-    div {
-        display: inline-block;
-    }
-
-    </style>
-
 <header> 
 <h1> Gabriel Melo Repository </h1>
 <nav>
