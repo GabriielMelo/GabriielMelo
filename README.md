@@ -14,12 +14,12 @@
 <a href="https://github.com/GabriielMelo/projeto-jquery-site_camisetas" style="color:gray;font-family:Arial"> 🔗Repositorio </a>
 <br>
 <h4 style="font-family:Arial">Projeto Historia do Android</h4>
-<a href="https://big-golf-orange-norway.bohr.io/" style="color:gray; font-family:Arial"> 🔗Site </a>  
+<a href="https://big-golf-orange-norway.bohr.io/" style="color:gray; font-family:Arial"> 🔗Link </a>  
 
 <a href="https://github.com/GabriielMelo/projeto-android" style="color:gray;font-family:Arial"> 🔗Repositorio </a>
 <br>
 <h4 style="font-family:Arial">Projeto Calculadora JS</h4>
-<a href="https://gabriielmelo.github.io/Calculadora/calc.html" style="color:gray; font-family:Arial"> 🔗Site </a>  
+<a href="https://gabriielmelo.github.io/Calculadora/calc.html" style="color:gray; font-family:Arial"> 🔗Link </a>  
 
 <a href="https://github.com/GabriielMelo/Calculadora" style="color:gray;font-family:Arial"> 🔗Repositorio </a>
 <br>
