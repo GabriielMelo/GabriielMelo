@@ -35,7 +35,7 @@
 <a href="https://github.com/GabriielMelo/node-js" target="_blank"><img alt ="Node-JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="padding-right:5px"> 
 <a href="https://github.com/GabriielMelo/poo-java" target="_blank"><img alt ="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="padding-right:5px"> 
 <a href="#" target="_blank"><img alt ="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="padding-right:43px"> 
-<a href="#" target="_blank"><img alt ="SQL" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="padding-right:5px"> 
+<a href="https://github.com/GabriielMelo/Python" target="_blank"><img alt ="SQL" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="padding-right:5px"> 
 </div>
 
 
