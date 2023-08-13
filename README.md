@@ -1,4 +1,4 @@
-### <i>Hey Listen!</i>
+### <i>Hey</i>
 
 
 <header>
@@ -21,14 +21,6 @@
 
 <a href="https://github.com/GabriielMelo/projeto-android" style="color:gray;font-family:Arial"> 🔗Repositorio </a>
 <br>
-<h4 style="font-family:Arial">Projeto Calculadora JS</h4>
-<a href="https://gabriielmelo.github.io/Calculadora/calc.html" style="color:gray; font-family:Arial"> 🔗Link </a>  
-
-<a href="https://github.com/GabriielMelo/Calculadora" style="color:gray;font-family:Arial"> 🔗Repositorio </a>
-<br>
-
-
-
 <h3 style="color:gray">Repositorios</h3>
 <div>
 <a href="https://github.com/GabriielMelo/html-css" target="_blank"><img alt ="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="padding-right:17px">
