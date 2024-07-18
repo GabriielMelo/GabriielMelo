@@ -13,8 +13,11 @@
 <a href="https://github.com/GabriielMelo/projeto-jquery-site_camisetas" style="color:gray; font-family:arial"> 🔗Repositorio </a>
 <h4 style="font-family:Arial">Weather App</h4>
 <a href="https://big-volleyball-silver-bahrain.bohr.io/" style="color:gray; font-family:Arial">🔗Link </a>  
-
 <a href="https://github.com/GabriielMelo/Weather_App" style="color:gray;font-family:Arial"> 🔗Repositorio </a>
+<h4 style="font-family:Arial">APP Consulta de CEP</h4>
+<a href="https://gabriielmelo.github.io/CEP-APP/" style="color:gray; font-family:Arial">🔗Link </a>  
+<a href="https://github.com/GabriielMelo/CEP-APP" style="color:gray;font-family:Arial"> 🔗Repositorio </a>
+
 <br>
 <h4 style="font-family:Arial">Projeto Historia do Android</h4>
 <a href="https://big-golf-orange-norway.bohr.io/" style="color:gray; font-family:Arial"> 🔗Link </a>  
