@@ -8,6 +8,9 @@
 ![Gabriel Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriielMelo&show_icons=true&theme=vision-friendly-dark)
 
 <h1 style="color:gray; font-family:Arial">Projetos </h1>
+<h4 style="font-family:Arial">E-commerce Beauty Shop</h4>
+<a href="https://beautyshop-tau.vercel.app/" style="color:gray; font-family:Arial">🔗Link </a>  <br>
+<a href="https://github.com/GabriielMelo/projeto-beauty-shop" style="color:gray; font-family:arial"> 🔗Repositorio </a> <br>
 <h4 style="font-family:Arial">Site de Camisetas</h4>
 <a href="https://big-hulk-red-greece.bohr.io/" style="color:gray; font-family:Arial">🔗Link </a>  <br>
 <a href="https://github.com/GabriielMelo/projeto-jquery-site_camisetas" style="color:gray; font-family:arial"> 🔗Repositorio </a>
