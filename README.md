@@ -7,6 +7,9 @@
 
 ## 📂 Meus Projetos
 
+### 📋 [Tarefas Plus](https://tarefasplus-six.vercel.app/)
+[🔗 Repositório](https://github.com/GabriielMelo/Tarefas-Plus)
+
 ### 🛍️ [E-commerce Beauty Shop](https://beautyshop-tau.vercel.app/)
 [🔗 Repositório](https://github.com/GabriielMelo/projeto-beauty-shop)
 
